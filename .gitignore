@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+
+# Checkpoints, data splits, built tasks and trial outputs. Tasks hold HMAC keys and oracle tokens.
+cache/
+tasks/
+jobs/
+.env
+.pytest_cache/

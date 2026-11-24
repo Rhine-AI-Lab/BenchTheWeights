@@ -1,0 +1,8 @@
+.venv
+.git
+cache
+problems
+tasks
+jobs
+**/__pycache__
+*.pyc
