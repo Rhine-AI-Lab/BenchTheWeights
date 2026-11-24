@@ -1,7 +1,7 @@
 [project]
 name = "benchtheweights"
 dynamic = ["version"]
-description = "Bench the Weights. Repair: a benchmark of AI agents that repair neural networks by editing their weights"
+description = "Bench The Weights - Repair: a benchmark of AI agents that repair neural networks by editing their weights"
 requires-python = ">=3.11"
 dependencies = []
 
