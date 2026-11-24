@@ -38,7 +38,7 @@ TASK_TOML = """schema_version = "1.3"
 [task]
 name = "{task_id}"
 description = "Improve a {arch} by editing its weights directly (problem {pid}); scored by the share of the {metric} gap closed on a hidden test set."
-authors = [{{ name = "Bench the Weights" }}]
+authors = [{{ name = "Bench the Weights. Repair" }}]
 keywords = ["weight-space", "model-editing", "pytorch", "{family}", "separate-verifier", "no-internet"]
 
 [metadata]

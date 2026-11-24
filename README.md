@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/logo.png" width="200" alt="Bench the Weights logo: a robot lifting a barbell whose plates are drawn as graphs">
+  <img src="assets/logo.png" width="200" alt="Bench the Weights. Repair logo: a robot lifting a barbell whose plates are drawn as graphs">
 </p>
 
-<h1 align="center">Bench the Weights</h1>
+<h1 align="center">Bench the Weights. Repair</h1>
 
 <p align="center">
   <a href="https://rhinelab.ai/blog">Blog post</a> ·
@@ -223,9 +223,9 @@ pytest
 ## Citation
 
 ```bibtex
-@misc{rhine2026benchtheweights,
-  title        = {Bench the Weights: Can {AI} Agents Debug Neural Networks?},
-  author       = {{Rhine AI Lab}},
+@misc{rhine2026benchtheweightsrepair,
+  title        = {Bench the Weights. Repair: Can {AI} Agents Debug Neural Networks?},
+  author       = {Faro, Robin and Lopardo, Antonio and Miele, Andrea and Lucchi, Aur{\'e}lien and Bogunovic, Ilija},
   year         = {2026},
   month        = nov,
   howpublished = {Rhine AI Lab research blog},
