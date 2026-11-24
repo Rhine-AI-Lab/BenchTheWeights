@@ -24,7 +24,7 @@ then repair them with direct edits: no gradients, no training.
 | 1 Dec 2026 | The bug-injection pipeline: its agent, prompt and the three tests | `bug_injection/` |
 | 8 Dec 2026 | The 42 problems: modified networks, answer keys, evaluation data | `problems/` |
 
-Until the problems are public, we can run the evaluation on your model with the same harness, budget and
+Until the problems are public, we can [run the evaluation on your model](https://benchtheweights.com/#evaluate) with the same harness, budget and
 problems as the published results.
 
 ## The solver's setup
